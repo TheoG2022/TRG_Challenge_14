@@ -15,4 +15,7 @@
 ### Step 7 
 ### Created a cumulative return plot that shows the actual returns vs. the strategy returns. Save a PNG image of this plot. This will serve as a baseline against which to compare the effects of tuning the trading algorithm.
 
+## Commit 4
+###  Used the original training data as the baseline model, fitted another model with the new classifier.
+
 
