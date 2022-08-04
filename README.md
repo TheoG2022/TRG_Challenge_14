@@ -11,4 +11,8 @@
 ### Step 6
 ### Created a predictions DataFrame that contains columns for “Predicted” values, “Actual Returns”, and “Strategy Returns”.
 
+## Commit 3
+### Step 7 
+### Created a cumulative return plot that shows the actual returns vs. the strategy returns. Save a PNG image of this plot. This will serve as a baseline against which to compare the effects of tuning the trading algorithm.
+
 
