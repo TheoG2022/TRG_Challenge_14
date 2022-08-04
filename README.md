@@ -23,3 +23,6 @@
 
 ### Did this new model perform better or worse than your tuned trading algorithm? The new model performed the same. Not better or worse.
 
+## 0.82 macro
+## 0.77 weighted
+
