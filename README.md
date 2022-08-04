@@ -19,3 +19,7 @@
 ###  Used the original training data as the baseline model, fitted another model with the new classifier.
 
 
+### Did this new model perform better or worse than the provided baseline model? The new model performed the same. Not better or worse. 
+
+### Did this new model perform better or worse than your tuned trading algorithm? The new model performed the same. Not better or worse.
+
